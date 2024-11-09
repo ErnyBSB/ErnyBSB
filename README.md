@@ -2,7 +2,7 @@
 
 Master and PhD in **Information Science** ([Unb](https://www.unb.br/) Brasília).
 
-Currently studying **Artificial Intelligence** and its applicability in **Information Science**, particularly in the sub-area of ​​Library Science ()
+Currently studying **Artificial Intelligence** and its applicability in **Information Science**, particularly in the sub-area of ​​Library Science.
 
 Professionally, working as a **Data Analyst** and **Machine Learning** developer.
 
