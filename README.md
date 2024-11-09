@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @ErnyBSB
-- 👀 I’m interested in artifithial inteligence in general
-- 🌱 I’m currently learning Deep Learning networks and models
-- 💞️ I’m looking to collaborate on DP projects
+## My brief profile
 
-<!---
-ErnyBSB/ErnyBSB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Master and PhD in **Information Science** ([Unb](https://www.unb.br/) Brasília).
+
+Currently studying **Artificial Intelligence** and its applicability in **Information Science**, particularly in the sub-area of ​​Library Science ()
+
+Professionally, working as a **Data Analyst** and **Machine Learning** developer.
+
+Currently studying Artificial Intelligence in general and its applicability in Information Science, particularly in the sub-area of ​​**Library Science** ([Computer Science Center](https://portal.cin.ufpe.br/) UFPE Pernambuco).
+
+Professionally, working as a Data Analyst and Machine Learning developer.
+
+
