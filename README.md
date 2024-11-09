@@ -11,5 +11,7 @@ Currently studying Artificial Intelligence in general and its applicability in I
 Professionally, working as a Data Analyst and Machine Learning developer.
 
 ```python
+from life import happiness
+
 print('Para ser grande sê inteiro: nada teu exagera ou exclui. >> FPessoa')
 ```
