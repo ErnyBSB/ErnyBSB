@@ -13,5 +13,5 @@ Professionally, working as a Data Analyst and Machine Learning developer.
 ```python
 from life import happiness
 bestPoetEver = FPessoa
-print(f('Para ser grande sê inteiro: nada teu exagera ou exclui. >> {bestPoetEver}))
+print(f('Para ser grande sê inteiro: nada teu exagera ou exclui. >> {bestPoetEver}'))
 ```
