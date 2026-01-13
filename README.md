@@ -4,7 +4,7 @@ Master and Doctorate in **Information Science** ([Unb](https://www.unb.br/) Bras
 
 Professionally, working as a **Data Analyst** , **Machine Learning** developer and librarian.
 
-Currently studying Artificial Intelligence in general and its applicability in Information Science, particularly in the sub-area of ​​**Library Science** ([Computer Science Center](https://portal.cin.ufpe.br/) UFPE Pernambuco).
+Currently studying Artificial Intelligence in general and its applicability in Information Science, particularly in the sub-area of ​​**Library Science**.
 
 
 ```python
