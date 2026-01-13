@@ -1,4 +1,4 @@
-## My brief profile
+## Erny Bo-D is...
 
 Master and Doctorate in **Information Science** ([Unb](https://www.unb.br/) Brasília).
 
