@@ -1,7 +1,7 @@
 ## Erny Bo-D is...
 
 Master and Doctorate in **Information Science** ([Unb](https://www.unb.br/) Brasília).
-Machine Learning Specialist and Pos-Doc ([Centro Informática UFPE] (https://portal.cin.ufpe.br/) Recife )
+Machine Learning Specialist and Pos-Doc ([Centro Informática UFPE](https://portal.cin.ufpe.br/) Recife )
 
 Professionally, working as a **Data Analyst** , **Machine Learning** developer and librarian.
 
